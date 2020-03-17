@@ -1,0 +1,47 @@
+﻿  main.cpp
+h:\g\proj\project3\main.cpp(78): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+main.obj : error LNK2001: 无法解析的外部符号 ___CxxFrameHandler3
+msvcprt.lib(locale0_implib.obj) : error LNK2001: 无法解析的外部符号 ___CxxFrameHandler3
+main.obj : error LNK2001: 无法解析的外部符号 __imp__exit
+main.obj : error LNK2001: 无法解析的外部符号 ___std_exception_destroy
+main.obj : error LNK2001: 无法解析的外部符号 "void __cdecl operator delete[](void *)" (??_V@YAXPAX@Z)
+main.obj : error LNK2001: 无法解析的外部符号 __imp__fputc
+main.obj : error LNK2001: 无法解析的外部符号 __imp__calloc
+main.obj : error LNK2001: 无法解析的外部符号 __imp__fopen
+main.obj : error LNK2001: 无法解析的外部符号 __imp__fflush
+main.obj : error LNK2001: 无法解析的外部符号 "void * __cdecl operator new(unsigned int)" (??2@YAPAXI@Z)
+msvcprt.lib(locale0_implib.obj) : error LNK2001: 无法解析的外部符号 "void * __cdecl operator new(unsigned int)" (??2@YAPAXI@Z)
+main.obj : error LNK2001: 无法解析的外部符号 __imp__fclose
+main.obj : error LNK2001: 无法解析的外部符号 __imp__fseek
+main.obj : error LNK2001: 无法解析的外部符号 "void __stdcall `eh vector destructor iterator'(void *,unsigned int,unsigned int,void (__thiscall*)(void *))" (??_M@YGXPAXIIP6EX0@Z@Z)
+main.obj : error LNK2001: 无法解析的外部符号 ___std_exception_copy
+main.obj : error LNK2001: 无法解析的外部符号 __imp__rand
+main.obj : error LNK2001: 无法解析的外部符号 _atexit
+msvcprt.lib(locale0_implib.obj) : error LNK2001: 无法解析的外部符号 _atexit
+main.obj : error LNK2001: 无法解析的外部符号 __imp__fgetc
+main.obj : error LNK2001: 无法解析的外部符号 "void __cdecl operator delete(void *,unsigned int)" (??3@YAXPAXI@Z)
+msvcprt.lib(locale0_implib.obj) : error LNK2001: 无法解析的外部符号 "void __cdecl operator delete(void *,unsigned int)" (??3@YAXPAXI@Z)
+main.obj : error LNK2001: 无法解析的外部符号 __imp___unlock_file
+main.obj : error LNK2001: 无法解析的外部符号 __imp___lock_file
+main.obj : error LNK2001: 无法解析的外部符号 __imp__fwrite
+main.obj : error LNK2001: 无法解析的外部符号 __imp__fgetpos
+main.obj : error LNK2001: 无法解析的外部符号 "void * __cdecl operator new[](unsigned int)" (??_U@YAPAXI@Z)
+main.obj : error LNK2001: 无法解析的外部符号 __imp__setvbuf
+main.obj : error LNK2001: 无法解析的外部符号 __imp__free
+main.obj : error LNK2001: 无法解析的外部符号 __imp__atoi
+main.obj : error LNK2001: 无法解析的外部符号 __imp__ungetc
+main.obj : error LNK2001: 无法解析的外部符号 ___std_terminate
+main.obj : error LNK2001: 无法解析的外部符号 __imp__atof
+main.obj : error LNK2001: 无法解析的外部符号 __imp__fsetpos
+main.obj : error LNK2001: 无法解析的外部符号 "const type_info::`vftable'" (??_7type_info@@6B@)
+main.obj : error LNK2001: 无法解析的外部符号 __imp__fread
+main.obj : error LNK2001: 无法解析的外部符号 __imp___fseeki64
+main.obj : error LNK2001: 无法解析的外部符号 __imp___invalid_parameter_noinfo_noreturn
+main.obj : error LNK2001: 无法解析的外部符号 "void __stdcall `eh vector constructor iterator'(void *,unsigned int,unsigned int,void (__thiscall*)(void *),void (__thiscall*)(void *))" (??_L@YGXPAXIIP6EX0@Z1@Z)
+main.obj : error LNK2001: 无法解析的外部符号 __imp___get_stream_buffer_pointers
+main.obj : error LNK2001: 无法解析的外部符号 __imp__malloc
+LINK : error LNK2001: 无法解析的外部符号 _mainCRTStartup
+msvcprt.lib(locale0_implib.obj) : error LNK2001: 无法解析的外部符号 @__security_check_cookie@4
+msvcprt.lib(locale0_implib.obj) : error LNK2001: 无法解析的外部符号 ___security_cookie
+H:\g\proj\Release\Project3.exe : fatal error LNK1120: 39 个无法解析的外部命令
